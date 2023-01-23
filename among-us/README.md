@@ -10,13 +10,13 @@ In a similar vein to our ‘Minecraft’ events this is a casual team-building e
 Grab some coffee, prepare for the week, and install ‘Among Us’ on your platform of choice for a quick ~30 minute game 😊
 
 
-## Introduction to the Game:
+## Among Us Game:
 
 Here's the game trailer which includes a 43 second rough intro to the game:
 https://youtu.be/0YKjFoGxbec
 
 
-## Installing the Game:
+## Installation:
 
 This article will outline the process of installing Among Us on a Windows machine via the MS Store, however the game is fully cross platform. Supported platforms include: Windows Store (PC), iOS/iPadOS, Android, Steam (PC), Xbox One, Playstation, Switch, etc. 
 
