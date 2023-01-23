@@ -1,4 +1,4 @@
-# Microsoft C&E Skilling Among Us Event
+# Microsoft C&E Skilling 'Among Us' Event
 > A Mary's Team Game!
 
 ## Introduction:
