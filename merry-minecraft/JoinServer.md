@@ -9,7 +9,9 @@ To install Minecraft, download and run the ['Minecraft Launcher' Installer](http
 
 All Microsoft FTE's have access to Xbox GamePass which includes a copy of 'Minecraft Bedrock'. [Xbox GamePass](https://www.xbox.com/en-US/xbox-game-pass)
 
-If you don't have access to a PC running Windows (10/11), Minecraft Bedrock is available on the Apple iOS App Store (iPhone/iPad Only), Google Play Store (Android), Xbox (One/Series), PlayStation (4/5), and APK Mirror (Linux w/ Android Emulator). It is not available on MacOS or Linux natively without emulators.
+If you don't have access to a PC running Windows (10/11), Minecraft Bedrock is available on the Apple iOS App Store (iPhone/iPad Only), Google Play Store (Android), and APK Mirror (Linux w/ Android Emulator). It is not available on MacOS or Linux natively without emulators.  
+
+Xbox (One/Series), PlayStation (4/5), and the Nintendo Switch have access to the game, but you can't join a custom server without some weird workarounds. You can add a user as a friend who is logged-in to the server and join them through the 'Friends' menu, but the server will not stay on your list after they leave the game. It does work as a temporary solution, but is likely only useful if you coordinate with another player using Windows.
 
 
 ### Launch the Game:
