@@ -1,4 +1,4 @@
-# Joining the C&E Skilling Minecraft Server
+# Joining the Learn Minecraft Server
 
 ## Step 1: Getting Minecraft
 
