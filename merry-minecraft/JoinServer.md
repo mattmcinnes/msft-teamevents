@@ -46,8 +46,8 @@ Since this is likely your first time booting up 'Minecraft', an 'Online Play' wa
 You should now see a menu titled 'Add External Server'. Put in the credentials as follows:
 
 ```
-Server Name: C&E Skilling
-Server Address: mc.msftlearn.fun
+Server Name: Learn
+Server Address: learn.teamcraft.ing
 Port: 19132
 ```
 
