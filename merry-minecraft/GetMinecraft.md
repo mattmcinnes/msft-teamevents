@@ -36,3 +36,13 @@ Xbox logins are blocked for our main FTE accounts, so you'll have to login using
 
 4. Once you're signed in, you'll likely see this error. Feel free to close it as it won't affect the game's functionality.
 ![Account Mismatch](./content/accountmismatch.png)
+
+5. Select 'Minecraft: Bedrock Edition' on the side bar. Next, click 'Install'.
+![Install](./content/installbutton.png)
+
+6. Done! Now sit back and wait for the game to install.
+![Downloading](./content/installprogress.png)
+
+## Next Steps
+Go follow the [Join Server](./JoinServer.md) tutorial to join the team's server.
+
